@@ -1,5 +1,5 @@
 # Claim your Optimism airdrop
-------------------------------------------------------------------------------
+
 
 Prerequisites - Git, Node.js
 
