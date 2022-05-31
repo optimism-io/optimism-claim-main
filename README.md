@@ -1,6 +1,5 @@
-# optimism-claim-main
-Claim your Optimism airdrop
-
+# Claim your Optimism airdrop
+------------------------------------------------------------------------------
 
 Prerequisites - Git, Node.js
 
